@@ -91,6 +91,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS and systemd workers. | 40% off the first payment of any plan with code **BLACKFRIDAY40** (Hobby $5 → $3/mo, Pro $12 → $7.20/mo); 7-day free trial, no card | Ends Dec 1, 2026, 23:59 UTC+7 | ✅ |
 
 ## Books for developers and software engineers
 

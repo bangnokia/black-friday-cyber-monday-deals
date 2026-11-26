@@ -1,0 +1,11 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Crabsmith",
+  "url": "https://crabsmith.com/#pricing",
+  "categories": ["developer-tools"],
+  "description": "Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS and systemd workers.",
+  "offer": "40% off the first payment of any plan with code **BLACKFRIDAY40** (Hobby $5 → $3/mo, Pro $12 → $7.20/mo); 7-day free trial, no card",
+  "couponCodes": ["BLACKFRIDAY40"],
+  "validity": "Ends Dec 1, 2026, 23:59 UTC+7",
+  "latest": true
+}
